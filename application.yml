@@ -1,6 +1,6 @@
 health:
  check:
-  message: This is NOT the new test message from Config Server
+  message: This is a test message from Config Server
   port: local.server.port
 
 db:
