@@ -1,4 +1,7 @@
-testProperty: testProp
+health:
+ check:
+  message: This is a test message from Config Server
+  property: local.server.port
 
 db:
  url: jdbc:h2:mem:testdb
