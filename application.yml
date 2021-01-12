@@ -11,3 +11,5 @@ db:
  
 actuator:
  url: /actuator/health
+
+sentencePrefix: Sentence: 
