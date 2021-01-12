@@ -8,3 +8,6 @@ db:
  driver: org.h2.Driver
  username: sa
  password:
+ 
+actuator:
+ url: /actuator/health
